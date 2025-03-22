@@ -43,7 +43,7 @@ function getInitials(name) {
 }
 
 function openLogIn() {
-  window.location.href = "/log_in.html";
+  window.location.href = "/index.html";
 }
 
 function loadTaskNumbers() {
